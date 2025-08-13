@@ -1,0 +1,10 @@
+body{
+    background-color: aquamarine;
+    color: darkolivegreen;
+    text-align: center;
+    font-size: 36px;
+}
+
+li{
+ list-style: none;   
+}
